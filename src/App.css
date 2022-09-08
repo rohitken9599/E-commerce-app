@@ -1,0 +1,24 @@
+.header {
+  background-color: purple;
+  color: white;
+}
+
+.footer {
+  background-color: purple;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+view-container {
+  margin-top: 220px;
+}
+
+.card {
+  margin-top: 5% !important;
+}
+
+img {
+  height: 350px;
+}
